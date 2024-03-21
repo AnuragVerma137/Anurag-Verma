@@ -1,6 +1,5 @@
 ﻿asgiref==3.7.2
 autopep8==2.0.2
-customtkinter==5.2.0
 cx-Oracle==8.3.0
 darkdetect==0.8.0
 Django==4.2.5
@@ -9,6 +8,5 @@ pycodestyle==2.10.0
 pytube==15.0.0
 sqlparse==0.4.4
 tomli==2.0.1
-ttkthemes==3.2.2
 typing_extensions==4.8.0
 tzdata==2023.3
